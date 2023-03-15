@@ -1,0 +1,47 @@
+body {
+  background-color: hwb(200 83% 13%);
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+h1 {
+  color: #333333;
+  font-size: 250%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  background-color: hwb(200 48% 38%);
+  color: hwb(200 25% 65%);
+  font-size: 200%;
+  text-decoration: underline;
+}
+
+h3 {
+  background-color: hwb(200 60% 30%);
+  color: hwb(200 35% 55%);
+  font-size: 130%;
+  font-style: italic;
+}
+
+strong {
+  color: hwb(200 0% 40%);
+  font-weight: normal;
+}
+
+em {
+  color: hwb(200 0% 20%);
+  font-style: normal;
+  font-weight: bold;
+}
+
+p {
+  background-color: hwb(200 71% 21%);
+}
+
+address {
+  background-color: white;
+  font-weight: bold;
+  text-align: right;
+}
